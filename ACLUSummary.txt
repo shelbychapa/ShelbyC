@@ -1,0 +1,21 @@
+Analysis of Banned Books Dataset
+
+Top 3 Banned Books: Identified the top banned books with LGBTQIA+ themes and marginalized authors.
+Graphing Bans Over Time: Utilized a line graph to showcase trends in bans across different types over a specific period.
+Authors with the Most Banned Titles: Found authors with the highest unique titles banned and their counts.
+Selection of Texas for Analysis
+
+Reasoning: Texas had the highest count of banned books (801).
+Research Question: Explored the most affected district to understand localized impacts.
+Focus on North East Independent School District
+
+Findings: Identified North East I.S.D. as the district with the highest number of bans (435 out of 801 in Texas).
+Visualizations: Included bar graphs depicting banned books in Texas and at the district level.
+Code Highlights
+Data Handling and Analysis: Provided step-by-step code for data cleaning, calculations, and analysis.
+Visualization: Presented code for creating line graphs and bar charts to visualize ban trends and distribution.
+Future Recommendations
+Inclusion of Additional Data: Suggested adding standardized testing and literacy scores data for a more comprehensive analysis.
+Strategy for Advocacy: Emphasized the importance of literacy in combating book bans and fostering informed discussions.
+Conclusion:
+Emphasized the significance of understanding banned books' impact on education and the necessity for strategies to protect free speech rights in K-12 schools.
